@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quarantaine", "Quarantaine\Quarantaine.csproj", "{FABC1D10-9294-4153-8A60-A616DD845EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTool", "MultiTool\MultiTool.csproj", "{8E01C4CF-B327-46D9-A290-CAD72E465F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABC1D10-9294-4153-8A60-A616DD845EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABC1D10-9294-4153-8A60-A616DD845EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABC1D10-9294-4153-8A60-A616DD845EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABC1D10-9294-4153-8A60-A616DD845EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E01C4CF-B327-46D9-A290-CAD72E465F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E01C4CF-B327-46D9-A290-CAD72E465F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E01C4CF-B327-46D9-A290-CAD72E465F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E01C4CF-B327-46D9-A290-CAD72E465F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150C66DE-B521-4D53-9581-C49A1211EE74}
+	EndGlobalSection
+EndGlobal
